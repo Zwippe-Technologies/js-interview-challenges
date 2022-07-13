@@ -1,0 +1,8 @@
+{
+  "name": "js-interview-challenges",
+  "version": "1.0.0",
+  "description": "Zwippe tech JavaScript interview Challenges",
+  "main": "index.js",
+  "author": "juanjodev02",
+  "license": "MIT"
+}
