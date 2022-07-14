@@ -4,5 +4,8 @@
   "description": "Zwippe tech JavaScript interview Challenges",
   "main": "index.js",
   "author": "juanjodev02",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
 }
